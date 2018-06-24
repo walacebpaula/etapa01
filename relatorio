@@ -1,0 +1,57 @@
+Escola de Ciências e Tecnologia – UFRN
+Lógica de Programação
+Professor: Orivaldo Santana Jr.
+
+
+Relatório
+1.	Equipe de desenvolvimento
+
+WALACE BARROSO DE PAULA SOUZA SILVA, SUB-TURMA - 02B
+
+2.	Evolução do projeto
+
+Não tinha muito contato com os demais alunos da disciplina e aqueles que eu conhecia, quando os chamavam para fazer o trabalho comigo, já estavam em alguma dupla. Percebi que alguns que já eram programadores gostaria de fazer sozinho, então, resolvi enfrentar o desafio de fazer esse programa só, mesmo sem saber se chegaria ao final. Inicialmente estava achando que era muito difícil e sentia um pouco de dificuldades e, para eu fazer o programa com alguém que já soubesse muito seria mais difícil para mim aprender. Percebi que, sozinho, iria quebrar a cabeça, como fiz em muitas noites e dias durante esse período, mas que que no final foi mais proveitoso para mim. 
+
+Inicialmente, foram muitas informações que recebi de uma vez só, mas aos poucos percebi que eram de fácil entendimento, precisava apenas de um pouco mais de treino. Então comecei a desenvolver, com a ajuda do professor, as etapas 1 e 2 e enviei, em dia, via “github.com”, na aula de laboratório, no dia 21/05/2018. Já nas etapas 3 e 4, não pude comparecer as aulas de laboratório por motivo de doença, mas consegui desenvolver essas etapas, e enviei via siga-a, para não perder o prazo, no dia 31/05/2018, pois havia esquecido como se enviava pelo site “github.com”. 
+
+No dia 06/06/2018 fui ao laboratório para fazer as etapas 5 e 6, mas já chequei quase no final da aula e fiquei para o horário M56 com o monitor de plantão, e o professor falou que qualquer dúvida poderia pedir ajuda a ele, pois já estava de saída, mas antes de sua saída, mostrei que tinha enviado as etapas 3 e 4 e ele atualizou sua planilha e as etapas 5 e 6 que tinha começado a fazer no laboratório, ele não atualizou, pois eu não tinha juntado as duas com o resto das etapas. E foi nesse momento que descobri que as etapas deveriam ter sido entregue sempre atualizadas com a anterior, mas como não havia recebido essa informação do professor na primeira vez que ele me ajudou a enviar as duas primeiras etapas, então, entendi que todas deveriam ser enviadas separadamente, para, somente no final, juntar todas. E isso me atrapalhou naquele momento, pois não estava preparado para fazer essa união.
+
+Com a continuação no horário M56 junto com o monitor no laboratório tentei juntar as etapas 5 e 6, mas ele não conseguiu me ajudar por estar muitos alunos precisando dele também atrapalhando o desenrolar do trabalho e, então, resolvi desistir e tentar fazer em casa, mas aproveitei para ele me relembrar como se enviava pelo site “github.com”, então, criamos no novo repositório, por não saber mais qual era o primeiro que tinha feito com o professor para envio das etapas 1 e 2 e aproveitei e criei o arquivo da etapa 5 e, ainda no prazo, no dia 09/06/2018 enviei via “github.com”, as etapas 5 e 6. Só para lembras estas etapas foram enviadas através de um novo repositório, o que gerou uma duplicidade, e para  confirmar que fora enviado no prazo estas duas etapas, envio a seguir os dois links do repositório errado que enviei:  https://github.com/wbpss/trabalho-lop/blob/master/etapa5.js e https://github.com/wbpss/trabalho-lop/blob/master/etapa6.js.
+
+No dia 13/06, informei ao professor que estava com uma duplicidade de repositório para entrega do trabalho e ele me aconselhou que eu atualizasse tudo no repositório inicial e assim o fiz, mandando nos comentários as explicações do motivo pelo qual estava sendo, naquele momento, atualizado em atrasado.
+
+No dia 16/06, no prazo, enviei os arquivos que seriam usados para atualizar as etapas 7 e 8 do programa para não perder o prazo, pois ainda estava trabalhando para atualizar todas as etapas que, até então, não havia terminado. Lembrando que foi enviando para o repositório inicial que fiz com o professor no link: https://github.com/walacebpaula/projeto-lop (nesse está todas as etapas, sendo que na etapa 9 é que está atualizado todas as etapas).
+
+Na semana seguinte, consegui juntar quase tudo e procurei novamente o monitor para me ajudar em algumas funções que ainda estava faltando e foi quando ele me deu algumas dicas e me aconselhou que eu recomeçasse da forma que ele me ensinou para ficar mais fácil a finalização do projeto, então comecei tudo outra vez e mudei muitas coisas no programa para se adequar ao modo correto que ele havia me ensinado. E, consequente, algumas estruturas que estavam nas etapas anteriores tiveram que ser descartadas e implementadas para se adequar a nova estrutura do projeto. Vale salientar que a essência do jogo não foi alterada, apenas foi feita uma melhor adaptação a sua estrutura.
+E, no dia 23/06/2018, no prazo, consegui enviar todas as etapas atualizadas até a etapa 9.
+
+3.	Funcionalidades não-concluídas
+
+A etapa 10 (Adicionar animações ao jogo. Pode ser no jogador, nos objetos, no arremesso
+de objetos, na colisão de objetos, etc.) não houve mais tempo suficiente para ser estudada e projetada, mas, mesmo assim, fiquei muito feliz e satisfeito por ter conseguido chegar até aqui. Gostei tanto do jogo que tenho várias idéias para implementar no jogo, mas isso só farei agora nas férias, para divertimento próprio, criando assim gosto pela programação.
+
+4.	Dificuldades
+
+Tive algumas dificuldades, uma delas é que só consegui adquirir conhecimentos, além do professor que tem uma didática espetacular, por apenas mais dois monitores e, como eles têm que atender a muitos alunos ao mesmo tempo, cria-se um obstáculo para um aprendizado mais rápido. 
+
+Outra dificuldade é que o tempo é muito curto para se aprender a criar um programa e finalizá-lo para quem ainda está aprendendo.
+
+Também, a dificuldade de interação de se criar duplas para fazer o projeto. O professor deveria fazer uma verificação inicial com aqueles alunos que sabem programar pouco ou alguma coisa e colocá-lo junto com outro que estão vendo pela primeira vez e, aqueles que já são profissionais, fazerem a sós, pois estes, não precisam de uma dupla para fazer um projeto, mas aqueles, sim. Um ajudaria ao outro. Mas essa escolha deveria ser feita e publicada pelo professor sem poder fazer mudança de grupo. Tive uma experiência assim neste semestre com outra disciplina e foi muito proveitoso, por não termos que está indo atrás de ninguém para formar um par. 
+
+5.	Papel dos integrantes
+
+Não houve outro integrante.
+
+6.	Lições aprendidas
+
+Na verdade, aprendi tudo na marra, pois tudo era novo para mim. O professor foi minha maior força para que eu não desistisse da disciplina. Quando eu pensava que não ia aprender, pedia sua ajuda ele transmitia seus conhecimentos e eu aprendia com muita facilidade e saia muito feliz das aulas de laboratório e triste ao mesmo tempo, por ter passado tão rápida a aula.
+
+7.	Comentários gerais
+
+Não achei o projeto extenso. A linguagem foi de fácil entendimento. O professor é muito atencioso e participativo. 
+O maior problema é o curto tempo para se aprender a fazer um projeto. O meu programa foi feito até a etapa 9, mas o fiz na garra, com muita pesquisa, muitas noites de sono, e ainda assim teve partes que não compreendi a sua essência, fi-lo de forma automática. Mas, mesmo assim, foi de muito proveito.
+
+Com relação as etapas, acho que não deveria ser obrigatória a entrega, pois isso prejudica àqueles que tem mais dificuldade na aprendizagem, demoram mais a compreender e que estão programando pela primeira que é o meu caso. Ao tentarmos entregar, no prazo, uma tarefa sem saber direito é como estar enganando a nós mesmo e isso não é bom. Eu comecei bem, mas quando chegou na etapa 6, o projeto complicou e tive que refazer tudo outra vez para que a estrutura conseguisse se conectar entre si, ou seja, para conseguir unir as etapas. 
+
+É muito complicado a programação, porque existe várias saídas para se resolver um problema e, para mim, o jeito mais fácil de se aprender algo seria começar com uma única solução para que depois que fosse entendida, fosse mostrada outras formas de solução. Simplificando, o professor de aulas teórica ensina a estrutura de uma forma, o de aulas de laboratório, de outra e o monitor de outra forma totalmente diferente. Isso complica quando se tenta fazer um projeto. Como na reta final não havia mais tempo para tirar mais dúvidas com o professor, pois chegou ao final das aulas, tive que aprender a forma do monitor ensinar e refazer o meu projeto para conseguir terminá-lo. Não tive muitas dificuldades, pois já estava familiarizado com o programa, foi só uma questão de união de etapas, de uma estrutura mais fácil de se entender para se chegar ao final pelo melhor caminho, pois quando não sabemos é normal andarmos pelo caminho mais longo, e, este caminho leva mais tempo para ser percorrido, e no meu caso eu não tinha esse tempo suficiente para percorrer.
+Agradeço a toda a equipe que se empenhou para que eu aprendesse e desse mais um passo nessa longa caminhada, principalmente, o professor Orivaldo Santana que foi meu maior estímulo para conseguir superar mais um degrau rumo ao sucesso.
