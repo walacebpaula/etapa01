@@ -6,8 +6,8 @@ var xj, yj;
 var cor;
 var vx = []; 
 var vy = [];
-var vdx = [] 
-var vdy = []
+var vdx = []; 
+var vdy = [];
 var vtam = []; 
 var qt; 
 var vcorR = []; 
@@ -16,14 +16,14 @@ var vcorB = [];
 var vativo = [];
 var tamArea; 
 var vspeed;
-var raioD;  
+var raioD; 
 var raioO;  
 var raioJ;  
 var vidas; 
 var pontos; 
 var nivel;
 var tela;
-  
+ 
 function setup() 
 {
 	tamArea = 500; 
@@ -37,6 +37,7 @@ function setup()
 	createCanvas(tamArea,tamArea);	
 	atualizaNivel();
 }
+
 
 function draw() 
 { 
@@ -54,6 +55,7 @@ function draw()
 	}		
 }
 
+
 function showTelaInicializacao()
 {
 	push();
@@ -68,6 +70,7 @@ function showTelaInicializacao()
 
 function showTelaAndamento()
 {
+
 	if (keyIsDown(UP_ARROW)) {
 		yj -= 5;
 	}
@@ -94,14 +97,17 @@ function showTelaAndamento()
 			}
 		}  
 		
+		
 		if (vativo[i] && dist(vx[i],vy[i],xj,yj) < vtam[i]+raioJ ) {
 			vativo[i] = false;
 			vidas--;
 		}
 	}	
 	
+ 
 	for (i=0; i<nd; i++) {
 	  if (disparo[i]) {
+		
 		xd[i] = xd[i]+5;
 		
 		if (xd[i] > tamArea) {
@@ -110,6 +116,7 @@ function showTelaAndamento()
 	  }
 	}
   
+
     background(cor);
   	
 	push();
@@ -147,6 +154,7 @@ function showTelaAndamento()
 	
 	for (i=0; i<nd; i++) {  
 		if (disparo[i]) {
+			 
 			ellipse(xd[i],yd[i],raioD,raioD);
 		}
 	}
@@ -158,7 +166,7 @@ function showTelaAndamento()
 		}
 	}
 	if (novo_nivel) {
-		if (nivel >= 5) 
+		if (nivel >= 5) { 
 			tela = 4;
 		}
 		else {
@@ -170,6 +178,7 @@ function showTelaAndamento()
 	if (vidas<=0) {
 		tela = 3;
 	}	
+
 }
 
 function showTelaConclusao()
@@ -179,9 +188,9 @@ function showTelaConclusao()
     fill(255);
 	textSize(90)
     text("Parabéns!!!",20,260);
-    textSize(20)
+    textSize(20);
 	text("Total máximo de pontos: 350",10,400);
-	text("Total de pontos obtidos:    "+pontos,10,430)
+	text("Total de pontos obtidos:    "+pontos,10,430);
     textSize(15)
     text("Clique em PLAY para reiniciar o jogo...",125,490);
 	pop();
@@ -192,7 +201,7 @@ function showGameOver()
 	push();
 	background('red');
     fill(255);
-	textSize(90)
+	textSize(90);
 	text("Game Over",20,260);
   	textSize(15)
     text("Clique em PLAY para reiniciar o jogo...",125,490);
@@ -213,6 +222,7 @@ function keyPressed()
     return false; 
 }
 
+
 function atualizaNivel()
 {
 	if (nivel==1) {
@@ -225,25 +235,25 @@ function atualizaNivel()
 		vspeed = 3;
 		qt = 60;	
         cor='hsla(160, 100%, 50%, 0.5)';
-        raioO=40
+        raioO=40;
 	}
 	else if (nivel==3) {
 		vspeed = 3;
 		qt = 70;
         cor='blue';
-        raioO=30
+        raioO=30;
 	}
 	else if (nivel==4) {
 		vspeed = 4;
 		qt = 80;	
         cor=(50, 55, 100);
-        raioO=20
+        raioO=20;
 	}
 	else if (nivel==5) {
 		vspeed = 5;
 		qt = 90;
         cor='black';
-        raioO=10
+        raioO=10;
 	}	
 
 	for (i = 0; i < qt; i++) { 
@@ -266,3 +276,5 @@ function atualizaNivel()
 		disparo[i] = false; 
 	} 
 }
+
+
